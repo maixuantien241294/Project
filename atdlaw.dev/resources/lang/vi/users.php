@@ -1,0 +1,36 @@
+<?php
+return [
+  'label'   =>  'QUẢN TRỊ',
+    'user'  =>  [
+        'label'   =>  'Tài Khoản',
+        'management'    =>  'Quản trị',
+        'name'          =>  'Họ tên',
+        'create'  =>  'Tạo tài khoản',
+        'first_name'    =>  'Họ',
+        'last_name'     =>  'Tên',
+        'email'         =>  'Email',
+        'groups'        =>  'Nhóm quản trị',
+        'password'      =>  'Mật khẩu',
+        'last_login'    =>  'Lần đăng nhập gần nhất',
+        'repassword'   =>  'Nhập lại mật khẩu',
+        'status'        =>  'Trạng thái',
+    ],
+    'group' =>  [
+        'label'     =>  'Nhóm',
+        'create'    =>  'Thêm nhóm mới',
+        'name'      =>  'Tên Nhóm',
+        'count_pesion'  =>  'Số người',
+        'permissions'   =>  'Các quyền',
+        'categories'    =>  'Quản lý danh mục sản phẩm',
+        'trademarks'    =>  'Quản lý Đối tác',
+        'provinces'     =>  'Country',
+        'stores'        =>  'Quản lý kho hàng',
+        'attributes'    =>  'Quản lý thuộc tính',
+        'attributes_values' =>  'Quản lý giá trị thuộc tính',
+        'attributes_categories' =>  'Quản lý danh mục - thuộc tính',
+        'users_groups'      =>  'Quản lý nhóm người dùng',
+        'users'             =>  'Quản lý người dùng',
+        'products'          =>  'Quản lý sản phẩm',
+    ],
+    'menu'  => 'Danh mục'
+];

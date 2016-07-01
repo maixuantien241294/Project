@@ -1,0 +1,27 @@
+.ajax_loader {
+    background: url("../img/ring.gif") no-repeat center center transparent;
+    width:100%;
+    position: fixed;
+    height:100%;
+}
+.checkbox_prop {
+    margin: 0 4px 4px 10px;
+    width: 21px;
+    height: 21px;
+    border: 2px solid #ddd;
+    float: left;
+    list-style: none;
+}
+.checkbox_prop-value {
+    display: block;
+    width: 15px;
+    height: 15px;
+    text-indent: -10000px;
+    overflow: hidden;
+    background: #ccc;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+.a_cursor{
+    cursor: pointer;
+}
